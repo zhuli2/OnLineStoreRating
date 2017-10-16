@@ -1,7 +1,7 @@
 # OnLineStoreRating
 Project in HTML/CSS/JS/NodeJS/MongoDB developing full-stack Web-App.<br>
 
-# BACK END
+## BACK END
 
 With the rising popularity amd prevalence of rating apps, ratings have become an important part of user experience. We rate everything from restaurants to games to [people](https://www.youtube.com/watch?v=CI4kiPaKfAE). For this assignment you will be creating a simple app that rates stores. Your job is to implement a RESTful API that can digest ratings and map them to stores that should be able to perform CRUD (Create, Read, Update, Delete) operations. For simplicity, you are not required to implement user authentication and we encourage you to use simple functions/methods. The objective is to give you a hands-on experience with full stack application development. You will NOT be working in teams; individual submissions will be required.
 
@@ -390,7 +390,7 @@ After and return:
 }
 ~~~~
 
-#### FRONT END
+## FRONT END
 
 The frontend should provide a list of possible operations to the user. You can think of this list as a navigation menu. For every backend endpoint, there is some way in the front end that can fully utilize that backend. The list of front end functions could be:
 
@@ -407,5 +407,5 @@ Minimal styling using CSS is required. You should spend only a small amount of t
 
 Note that the grade for this component is largely based on using JavaScript (or JS libraries) to update the data displayed.
 
-#### Programming style 
+## Programming style 
 Good REST design and the usual attributes of good programming style. Make sure to comment and document your code as well as modularize if necessary.
