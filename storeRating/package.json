@@ -1,0 +1,23 @@
+{
+  "name": "storeReview",
+  "author": "LiZhu",
+  "description": "Assignment2-CSC309W17",
+  "version": "1.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "assert": "^1.4.1",
+    "body-parser": "~1.16.0",
+    "cookie-parser": "~1.4.3",
+    "express": "~4.14.1",
+    "express-session": "^1.15.1",
+    "mongodb": "^2.2.25",
+    "mongodb-autoincrement": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
