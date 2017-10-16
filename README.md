@@ -1,5 +1,7 @@
 # OnLineStoreRating
 Project in HTML/CSS/JS/NodeJS/MongoDB developing full-stack Web-App.<br>
+<br>
+The app just has basic functionalities as required below because of the short developing time. More imporvements are needed.
 
 ## BACK END
 
